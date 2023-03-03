@@ -91,6 +91,25 @@ En resumen, un fasor es una herramienta matemática utilizada para analizar señ
 
 **3.2.4. Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.**
 
+**a)**
+
+
+![image](https://user-images.githubusercontent.com/116772918/222776769-96e98426-04a8-4f1b-ab29-7ae744f3254d.png)
+
+![image](https://user-images.githubusercontent.com/116772918/222776850-b469bfe2-56b4-4f19-a8b9-188bacd36b86.png)
+
+**b)**
+
+![image](https://user-images.githubusercontent.com/116772918/222777034-3d4d8216-7bfa-47f0-898c-3bb75e49f3e4.png)
+
+![image](https://user-images.githubusercontent.com/116772918/222777090-12ea8c9e-d3fc-4117-9750-23057cd4f617.png)
+
+**c)**
+
+![image](https://user-images.githubusercontent.com/116772918/222777158-54f5e7ea-8a1e-42ee-b14a-c21b7c8665d6.png)
+
+![image](https://user-images.githubusercontent.com/116772918/222777229-5c3e5c44-3711-488c-80ff-7c97cbcd4861.png)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
